@@ -5,16 +5,23 @@ PRESENTATION DE L’APPLICATION
 ![fancypageacceuil1](https://user-images.githubusercontent.com/47142356/103278324-8300f980-49cb-11eb-8d7e-c4fdda2653a2.jpg)
 Ce projet est une application Flutter
 
-#UTILITE ET DESCRIPTION
+#UTILITE ET DESCRIPTION:
+
+
 Cette application est une application pour les passionnés de football qui nous donne des informations sur l’évolution de chaque championnat européen après chaque journée de football.
 Nous avons deux pages Live standing et team Player
 ![facypage2](https://user-images.githubusercontent.com/47142356/103278338-8a280780-49cb-11eb-9c02-2e6e0a019061.jpg)
 
 Ensuite un MENU ici l’utilisateur a un service de messagerie , un espace privé , des informations sur l’application , une option paramètres pour effectuer ses réglages
+
+
 ![maindrawer](https://user-images.githubusercontent.com/47142356/103278437-c6f3fe80-49cb-11eb-8094-c0d644dd7930.jpg)
 
 La page des classement des équipes . Il pourra suivre en temps et en heures l’évolution de son équipe favorite et voir également comment ca se passe dans les autres pays, pour être informé sur l’évolution de potentiel adversaire lors des compétions européennes.
+
 ![bundesliga](https://user-images.githubusercontent.com/47142356/103278535-fc005100-49cb-11eb-97d8-f4f863cf99d7.jpg)
+
+
 Cette application peut être d’une grande utilité et très bénéfique pour les parieurs
 
 
@@ -36,7 +43,7 @@ C’est un framework de google qui utilise le language Dart. Son avantage est de
 
 ##Visual Studio code
 ![vscode](https://user-images.githubusercontent.com/47142356/103277501-7085c080-49c9-11eb-95f8-809a6d9233fe.png)
-<img width="389" alt="vscode" src=("https://user-images.githubusercontent.com/47142356/103277501-7085c080-49c9-11eb-95f8-809a6d9233fe.png")>
+
 
 A la fin de mon projet j’ai eu des problèmes de bug avec mon logiciel android studio que je n’arrivais pas a résoudre du coup , j’ai migré sur Visual studio code qui est un IDE que je maitrise mieux et qui prend aussi en compte plusieurs language . J’ai donc eu à l’utiliser pour déposer mon projet sur github.
 
