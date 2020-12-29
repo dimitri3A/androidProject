@@ -10,7 +10,7 @@ Ce projet est une application Flutter
 
 Cette application est une application pour les passionnés de football qui nous donne des informations sur l’évolution de chaque championnat européen après chaque journée de football.
 Nous avons deux pages Live standing et team Player
-![facypage2](https://user-images.githubusercontent.com/47142356/103278338-8a280780-49cb-11eb-9c02-2e6e0a019061.jpg)
+![page2](https://user-images.githubusercontent.com/47142356/103280884-c2cadf80-49d1-11eb-90f6-17facb0d274d.jpg)
 
 Ensuite un MENU ici l’utilisateur a un service de messagerie , un espace privé , des informations sur l’application , une option paramètres pour effectuer ses réglages
 
