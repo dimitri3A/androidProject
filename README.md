@@ -18,10 +18,13 @@ La page des classement des équipes . Il pourra suivre en temps et en heures l�
 Cette application peut être d’une grande utilité et très bénéfique pour les parieurs
 
 
-#LOGICIEL UTILISE
+#LOGICIEL UTILISE:
+
 Dans le cadre de ce projet j’ai eu à utiliser deux logiciel : android studio et visual studio code
  
 ##Android studio
+
+
 ![android studo](https://user-images.githubusercontent.com/47142356/103275831-4fbb6c00-49c5-11eb-81b1-9a3a4b3fd5c1.png)
 
 C’est un environnement de développement pour application  mobile . Cet IDE est open source et téléchargeable sur Windows ,macOs, Linux…Android studio utilise principalement les langage java et kotlin . Etant donné que j’ai utilisé le langage dart j’ai du installé les plugins pour pouvoir travailler dans androide studio.
@@ -33,6 +36,7 @@ C’est un framework de google qui utilise le language Dart. Son avantage est de
 
 ##Visual Studio code
 ![vscode](https://user-images.githubusercontent.com/47142356/103277501-7085c080-49c9-11eb-95f8-809a6d9233fe.png)
+<img width="389" alt="vscode" src=("https://user-images.githubusercontent.com/47142356/103277501-7085c080-49c9-11eb-95f8-809a6d9233fe.png")>
 
 A la fin de mon projet j’ai eu des problèmes de bug avec mon logiciel android studio que je n’arrivais pas a résoudre du coup , j’ai migré sur Visual studio code qui est un IDE que je maitrise mieux et qui prend aussi en compte plusieurs language . J’ai donc eu à l’utiliser pour déposer mon projet sur github.
 
