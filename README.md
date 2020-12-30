@@ -9,7 +9,7 @@ Ce projet est une application Flutter
 
 
 Cette application est une application pour les passionnés de football qui nous donne des informations sur l’évolution de chaque championnat européen après chaque journée de football.
-Nous avons deux pages Live standing et team Player
+Nous avons deux pages d'acceuil Live standing et team Player
 ![page2](https://user-images.githubusercontent.com/47142356/103280884-c2cadf80-49d1-11eb-90f6-17facb0d274d.jpg)
 
 Ensuite un MENU ici l’utilisateur a un service de messagerie , un espace privé , des informations sur l’application , une option paramètres pour effectuer ses réglages
@@ -51,7 +51,7 @@ A la fin de mon projet j’ai eu des problèmes de bug avec mon logiciel android
 il était recommandé d'utiliser le langage kotlin , mais pour ce projet j'ai utilisé le language dart car il ya des similitudes dans les syntaxes de ses deux languages.
 Dart, le nouveau langage orienté Web de Google. Il se veut un langage structuré, facile d'apprentissage pour tout développeur, quel que soit son background (C#, Java ou JavaScript).Dart garde la nature dynamique du JavaScript, tout en offrant un langage et des outils facilitant le développement de grosses applications Web.
 
-# DEtails sur le projet
+# Details sur le projet
 
 nous disposons de deux branches la branche main qui est la nranche crée par defaut qui contient le readme du projet et la branche master qui estla branche dans laquelle le projet est importé. le fichier source du projet est le fichier football.
 
