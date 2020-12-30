@@ -55,9 +55,9 @@ Dart, le nouveau langage orienté Web de Google. Il se veut un langage structur�
 
 # Details sur le projet
 
-nous disposons de deux branches la branche main qui est la nranche crée par defaut qui contient le readme du projet et la branche master qui estla branche dans laquelle le projet est importé. le fichier source du projet est le fichier football.
+nous disposons de deux branches la branche main qui est la nranche crée par defaut qui contient le readme du projet et la branche master qui est la branche dans laquelle le projet est importé. le fichier source du projet est le fichier football.
 
-C'etait prévu de faire une page supplémentaire sur laquelle devait etre affiché la liste des joueurs de chaque équipe et les informations sur ses joueurs(telles que  l'etat sanitaire,l'age, la taille, le poste occupé sur le terrain...) mais j'ai pas reussi à trouver une api free download pour cette partie 
+C'etait prévu de faire une page supplémentaire sur laquelle devait etre affichée la liste des joueurs de chaque équipe et les informations sur ses joueurs(telles que  l'etat sanitaire,l'age, la taille, le poste occupé sur le terrain...) mais j'ai pas reussi à trouver une api free download pour cette partie 
 
 
 
