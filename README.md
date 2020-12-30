@@ -44,7 +44,6 @@ C’est un environnement de développement pour application  mobile . Cet IDE es
 C’est un framework de google qui utilise le langage Dart. Son avantage est de développer une application une seule fois qui pourra être utilise sur ios et android. Flutter dispose de deux principale particularité les widgets qui nous structure un code facilement lisible et une interface bien construite tout en définissant les objets indépendamment des contraintes parentes. Les composantes qui sont aussi essentiel et redéfini par le créateur. Flutter nous permet d’intégrer plus facilement les animations, compile rapidement, les API sont généré parfaitement, la documentation est bien faite c’est pourquoi j’ai choisi se Framework pour avancer dans mon projet c’est facile d’acquérir les connaissances et c’est un élément du futur pour les applications
 
 ## Visual Studio code
-![vscode](https://user-images.githubusercontent.com/47142356/103277501-7085c080-49c9-11eb-95f8-809a6d9233fe.png)
 
 ![VS Code](https://user-images.githubusercontent.com/47142356/103351192-b5c9f100-4aa2-11eb-8cbd-92bd51b26694.png)
 
