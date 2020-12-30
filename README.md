@@ -46,6 +46,10 @@ C’est un framework de google qui utilise le langage Dart. Son avantage est de 
 ## Visual Studio code
 ![vscode](https://user-images.githubusercontent.com/47142356/103277501-7085c080-49c9-11eb-95f8-809a6d9233fe.png)
 
+![VS Code](https://user-images.githubusercontent.com/47142356/103351192-b5c9f100-4aa2-11eb-8cbd-92bd51b26694.png)
+
+
+
 
 A la fin de mon projet j’ai eu des problèmes de bug avec mon logiciel android studio que je n’arrivais pas a résoudre du coup , j’ai migré sur Visual studio code qui est un IDE que je maitrise mieux et qui prend aussi en compte plusieurs language . J’ai donc eu à l’utiliser pour déposer mon projet sur github.
 
